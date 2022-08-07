@@ -1,1 +1,1 @@
-A novice programmer from Kyiv, Ukraine 🇺🇦
+Various cool programming projects will appear here
