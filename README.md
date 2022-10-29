@@ -1,3 +1,3 @@
-Various cool programming projects will appear here
+My programming projects
 
-Тут з'являтимуться круті проєкти з програмування
+Мої проєкти з програмування
